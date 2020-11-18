@@ -15,9 +15,7 @@
       <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/baithi.html" beforeDir="false" afterPath="$PROJECT_DIR$/baithi.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/baithi.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/baithi.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +44,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/imgs" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -59,6 +57,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/imgs" />
       <recent name="$PROJECT_DIR$/lib" />
     </key>
@@ -72,7 +71,7 @@
       <option name="presentableId" value="Default" />
       <updated>1605667811059</updated>
       <workItem from="1605667812143" duration="2673000" />
-      <workItem from="1605670498268" duration="1403000" />
+      <workItem from="1605670498268" duration="1577000" />
     </task>
     <task id="LOCAL-00001" summary="bai thi">
       <created>1605670647589</created>
@@ -81,7 +80,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605670647589</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="bai thi">
+      <created>1605671948149</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1605671948149</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -103,9 +109,9 @@
     <option name="LAST_COMMIT_MESSAGE" value="bai thi" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="320" y="161" key="Vcs.Push.Dialog.v2" timestamp="1605670654621">
+    <state x="320" y="161" key="Vcs.Push.Dialog.v2" timestamp="1605671952398">
       <screen x="0" y="23" width="1440" height="797" />
     </state>
-    <state x="320" y="161" key="Vcs.Push.Dialog.v2/0.23.1440.797@0.23.1440.797" timestamp="1605670654621" />
+    <state x="320" y="161" key="Vcs.Push.Dialog.v2/0.23.1440.797@0.23.1440.797" timestamp="1605671952398" />
   </component>
 </project>
