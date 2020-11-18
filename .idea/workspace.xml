@@ -1,7 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="f62148b6-c27a-4396-a65f-8fa31055d7e5" name="Default Changelist" comment="" />
+    <list default="true" id="f62148b6-c27a-4396-a65f-8fa31055d7e5" name="Default Changelist" comment="bai thi">
+      <change afterPath="$PROJECT_DIR$/.idea/baithi.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/baithi.html" beforeDir="false" afterPath="$PROJECT_DIR$/baithi.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/baithi.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/baithi.css" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,8 +41,10 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/imgs" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
@@ -53,11 +72,40 @@
       <option name="presentableId" value="Default" />
       <updated>1605667811059</updated>
       <workItem from="1605667812143" duration="2673000" />
-      <workItem from="1605670498268" duration="36000" />
+      <workItem from="1605670498268" duration="1403000" />
     </task>
+    <task id="LOCAL-00001" summary="bai thi">
+      <created>1605670647589</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1605670647589</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="bai thi" />
+    <option name="LAST_COMMIT_MESSAGE" value="bai thi" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="320" y="161" key="Vcs.Push.Dialog.v2" timestamp="1605670654621">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state x="320" y="161" key="Vcs.Push.Dialog.v2/0.23.1440.797@0.23.1440.797" timestamp="1605670654621" />
   </component>
 </project>
