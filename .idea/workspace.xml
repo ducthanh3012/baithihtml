@@ -10,12 +10,13 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f62148b6-c27a-4396-a65f-8fa31055d7e5" name="Default Changelist" comment="bai thi">
+    <list default="true" id="f62148b6-c27a-4396-a65f-8fa31055d7e5" name="Default Changelist" comment="index">
       <change afterPath="$PROJECT_DIR$/.idea/baithi.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/baithi.html" beforeDir="false" afterPath="$PROJECT_DIR$/baithi.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,7 +72,7 @@
       <option name="presentableId" value="Default" />
       <updated>1605667811059</updated>
       <workItem from="1605667812143" duration="2673000" />
-      <workItem from="1605670498268" duration="1577000" />
+      <workItem from="1605670498268" duration="1835000" />
     </task>
     <task id="LOCAL-00001" summary="bai thi">
       <created>1605670647589</created>
@@ -87,11 +88,21 @@
       <option name="project" value="LOCAL" />
       <updated>1605671948149</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="index">
+      <created>1605672163260</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1605672163260</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.php" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -106,12 +117,13 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="bai thi" />
-    <option name="LAST_COMMIT_MESSAGE" value="bai thi" />
+    <MESSAGE value="index" />
+    <option name="LAST_COMMIT_MESSAGE" value="index" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="320" y="161" key="Vcs.Push.Dialog.v2" timestamp="1605671952398">
+    <state x="320" y="161" key="Vcs.Push.Dialog.v2" timestamp="1605672173424">
       <screen x="0" y="23" width="1440" height="797" />
     </state>
-    <state x="320" y="161" key="Vcs.Push.Dialog.v2/0.23.1440.797@0.23.1440.797" timestamp="1605671952398" />
+    <state x="320" y="161" key="Vcs.Push.Dialog.v2/0.23.1440.797@0.23.1440.797" timestamp="1605672173424" />
   </component>
 </project>
